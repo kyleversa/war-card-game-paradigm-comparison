@@ -1,3 +1,4 @@
+# War Card Game – Multi-Language Paradigm Implementation
 
 ---
 
@@ -61,7 +62,9 @@ The deck of cards is represented by a shuffled list of 52 integers, where each i
 
 ## Conclusion
 
-This repository demonstrates how the same War card game logic can be implemented in different languages using different programming paradigms. It serves as a showcase of proficiency in **Smalltalk**, **Elixir**, and **Haskell**, and highlights the versatility required to implement the same functionality in various programming languages.
+This repository demonstrates how the same game logic can be implemented across different programming paradigms. By building the War card game in Smalltalk, Elixir, and Haskell, the project highlights differences in functional and object-oriented design approaches, data modeling, and execution structure.
+
+The goal was not just to recreate the game, but to explore language-specific idioms and architectural patterns while maintaining consistent core logic.
 
 ---
 
